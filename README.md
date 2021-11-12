@@ -11,9 +11,9 @@
 
 <br />
 :book: I'm currently reading : <i>No Rules Rules: Netflix and the Culture of Reinvention Book by Erin Meyer and Reed Hastings</i> <br />
-:books: I have completed reading:
-- 2 States: The Story of My Marriage Novel by Chetan Bhagat
-- The 3 Mistakes of My Life Novel by Chetan Bhagat
+:books: I have completed reading: <br />
+- 2 States: The Story of My Marriage Novel by Chetan Bhagat <br/>
+- The 3 Mistakes of My Life Novel by Chetan Bhagat <br/>
 - The Godfather Novel by Mario Puzo
 - The Future Is Faster Than You Think: How Converging Technologies Are Transforming Business, Industries, and Our Lives Book by Peter Diamandis and Steven Kotler
 
