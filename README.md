@@ -6,7 +6,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=JAVA&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=JAVA&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MONGODB&logoColor=white&color=2bbc8a)
 
 <!--
 **prathambongale/prathambongale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
