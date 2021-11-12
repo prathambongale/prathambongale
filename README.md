@@ -7,17 +7,19 @@
 
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=JAVA&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MONGODB&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-IntelliJ IDEA-informational?style=flat&logo=IntelliJ&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-VS Code-informational?style=flat&logo=vscode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MONGODB&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-IntelliJ IDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-VS Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 
 <br />
 :book: I'm currently reading : <i>No Rules Rules: Netflix and the Culture of Reinvention Book by Erin Meyer and Reed Hastings</i>
 
 <br />
-:books: I have completed reading:
-- 2 States: The Story of My Marriage Novel by Chetan Bhagat
-- The 3 Mistakes of My Life Novel by Chetan Bhagat
-- The Godfather Novel by Mario Puzo
-- he Future Is Faster Than You Think: How Converging Technologies Are Transforming Business, Industries, and Our Lives Book by Peter Diamandis and Steven Kotler
+:books: I have completed reading: <br />
+<ul>
+  <li>2 States: The Story of My Marriage Novel by Chetan Bhagat</li>
+  <li>The 3 Mistakes of My Life Novel by Chetan Bhagat</li>
+  <li>The Godfather Novel by Mario Puzo</li>
+  <li>he Future Is Faster Than You Think: How Converging Technologies Are Transforming Business, Industries, and Our Lives Book by Peter Diamandis and Steven Kotler</li>
+</ul>
 
 
 <!--
