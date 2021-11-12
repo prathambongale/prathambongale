@@ -3,13 +3,11 @@
 🌱 I’m currently learning :devops: DevOps <br />
 📫 How to reach me: :e-mail: prathambongale@hotmail.com <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
-
-
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=JAVA&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MONGODB&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MONGODB&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MONGODB&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 
 <br />
 :book: I'm currently reading : <i>No Rules Rules: Netflix and the Culture of Reinvention Book by Erin Meyer and Reed Hastings</i> <br />
