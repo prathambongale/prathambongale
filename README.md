@@ -7,10 +7,12 @@
 
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=JAVA&logoColor=white&color=2bbc8a) 
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MONGODB&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-IntelliJ IDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-VS Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MONGODB&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MONGODB&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MONGODB&logoColor=white&color=2bbc8a)
 
 <br />
-:book: I'm currently reading : <i>No Rules Rules: Netflix and the Culture of Reinvention Book by Erin Meyer and Reed Hastings</i>
+:book: I'm currently reading : <i>No Rules Rules: Netflix and the Culture of Reinvention Book by Erin Meyer and Reed Hastings</i> <br />
 
 <br />
 :books: I have completed reading: <br />
