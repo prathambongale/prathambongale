@@ -3,6 +3,10 @@
 🌱 I’m currently learning DevOps <br />
 📫 How to reach me: :e-mail: prathambongale@hotmail.com <br />
 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png" alt="LinkedIn"> prathamesh-bongale <br />
+<img src="http://i.imgur.com/wWzX9uB.png" alt="LinkedIn"> @prathambongale <br />
+<br />
+
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=JAVA&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MONGODB&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Architecture-Microservices-informational?style=flat&logo=MICROSERVICES&logoColor=white&color=2bbc8a)
