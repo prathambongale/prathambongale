@@ -3,9 +3,9 @@
 🌱 I’m currently learning DevOps <br />
 📫 How to reach me: :e-mail: prathambongale@hotmail.com <br />
 
-<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"> prathamesh-bongale <br />
-<img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter"> @prathambongale <br />
-<img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack"> prathambongale@hotmail.com
+<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="width:30px;height:20px;"> prathamesh-bongale 
+<img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" style="width:30px;height:20px;"> @prathambongale 
+<img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack" style="width:30px;height:20px;"> prathambongale@hotmail.com
 <br />
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=JAVA&logoColor=white&color=2bbc8a) 
