@@ -8,7 +8,7 @@
 &nbsp; <img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack" style="width:30px;height:20px;"> prathambongale@hotmail.com
 <br />
 <br />
-<img src="https://img.icons8.com/external-prettycons-solid-prettycons/60/000000/external-tools-tools-prettycons-solid-prettycons-2.png" style="width:30px;height:20px;">Technologies & Tools
+<img src="https://img.icons8.com/external-prettycons-solid-prettycons/60/000000/external-tools-tools-prettycons-solid-prettycons-2.png" style="width:25px;height:20px;">Technologies & Tools <br />
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=JAVA&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MONGODB&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Architecture-Microservices-informational?style=flat&logo=MICROSERVICES&logoColor=white&color=2bbc8a)
