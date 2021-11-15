@@ -1,13 +1,14 @@
 ### Hi there 👋
 
 🌱 I’m currently learning DevOps <br />
-📫 How to reach me: :e-mail: prathambongale@hotmail.com <br />
-
-<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="width:30px;height:20px;"> prathamesh-bongale 
-<img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" style="width:30px;height:20px;"> @prathambongale 
-<img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack" style="width:30px;height:20px;"> prathambongale@hotmail.com
+📫 How to reach me: <br />
+:e-mail: prathambongale@hotmail.com
+&nbsp; <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="width:30px;height:20px;"> prathamesh-bongale 
+&nbsp; <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" style="width:30px;height:20px;"> @prathambongale 
+&nbsp; <img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack" style="width:30px;height:20px;"> prathambongale@hotmail.com
 <br />
-
+<br />
+<img src="https://img.icons8.com/external-prettycons-solid-prettycons/60/000000/external-tools-tools-prettycons-solid-prettycons-2.png" style="width:30px;height:20px;">Technologies & Tools
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=JAVA&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MONGODB&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Architecture-Microservices-informational?style=flat&logo=MICROSERVICES&logoColor=white&color=2bbc8a)
