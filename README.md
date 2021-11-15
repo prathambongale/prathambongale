@@ -7,6 +7,7 @@
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MONGODB&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Architecture-Microservices-informational?style=flat&logo=MICROSERVICES&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 
