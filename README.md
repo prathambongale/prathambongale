@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning :devops: DevOps <br />
+🌱 I’m currently learning DevOps <br />
 📫 How to reach me: :e-mail: prathambongale@hotmail.com <br />
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=JAVA&logoColor=white&color=2bbc8a) 
