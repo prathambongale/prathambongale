@@ -5,6 +5,7 @@
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=JAVA&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MONGODB&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Architecture-Microservices-informational?style=flat&logo=MICROSERVICES&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
@@ -18,7 +19,7 @@
   <li>2 States: The Story of My Marriage Novel by Chetan Bhagat</li>
   <li>The 3 Mistakes of My Life Novel by Chetan Bhagat</li>
   <li>The Godfather Novel by Mario Puzo</li>
-  <li>he Future Is Faster Than You Think: How Converging Technologies Are Transforming Business, Industries, and Our Lives Book by Peter Diamandis and Steven Kotler</li>
+  <li>The Future Is Faster Than You Think: How Converging Technologies Are Transforming Business, Industries, and Our Lives Book by Peter Diamandis and Steven Kotler</li>
 </ul>
 
 
