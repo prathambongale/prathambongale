@@ -1,12 +1,13 @@
 # Prathamesh Bongale
-### How to reach me ~ 📫prathambongale@hotmail.com
+### Connect
+> How to reach me ~ 📫prathambongale@hotmail.com
 
->About
-## Love : 🏕️Camping, 🚗 Driving, 📚 Reading, 🥾 Hiking
+> LinkedIn ~ [Prathamesh Bongale](https://www.linkedin.com/in/prathamesh-bongale/)
 
+### About
+> Love : 🏕️Camping, 🚗 Driving, 📚 Reading, 🥾 Hiking
 
-
-> SKills
+### SKills
 
 |------ | ------|
 |:---------|:---------|
