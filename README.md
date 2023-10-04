@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 
 <br />
-:book: I'm currently reading : <i>Aomatic Habites by James Clear</i> <br />
+:book: I'm currently reading : <i>Atomic Habits by James Clear</i> <br />
 
 <br />
 :books: I have completed reading: <br />
