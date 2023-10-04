@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning DevOps <br />
+🌱 I’m Java Developer <br />
 📫 How to reach me: <br />
 :e-mail: prathambongale@hotmail.com
 &nbsp; <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="width:30px;height:20px;"> prathamesh-bongale 
@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 
 <br />
-:book: I'm currently reading : <i>The Everything Store: Jeff Bezos and the Age of Amazon Book by Brad Stone</i> <br />
+:book: I'm currently reading : <i>Aomatic Habites by James Clear</i> <br />
 
 <br />
 :books: I have completed reading: <br />
@@ -28,6 +28,7 @@
   <li>The Godfather Novel by Mario Puzo</li>
   <li>The Future Is Faster Than You Think: How Converging Technologies Are Transforming Business, Industries, and Our Lives Book by Peter Diamandis and Steven Kotler</li>
   <li>No Rules Rules: Netflix and the Culture of Reinvention Book by Erin Meyer and Reed Hastings</li>
+  <li>The Everything Store: Jeff Bezos and the Age of Amazon Book by Brad Stone</li>
 </ul>
 
 
