@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+# Prathamesh Bongale
+
+> Java Developer
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 	![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white) ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
+
+<!--
 🌱 I’m Java Developer <br />
 📫 How to reach me: <br />
 :e-mail: prathambongale@hotmail.com
@@ -15,7 +22,7 @@
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ%20IDEA-informational?style=flat&logo=IntelliJIDEA&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a) -->
 
 <br />
 :book: I'm currently reading : <i>Atomic Habits by James Clear</i> <br />
